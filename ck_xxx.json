@@ -4,6 +4,8 @@
 {"name":"X-18-02", "url":"https://NiceZoneCoder.github.io/json/xxx/18-02.json"},
 {"name":"X-18-03", "url":"https://NiceZoneCoder.github.io/json/xxx/18-03.json"},
 {"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/18-04.json"},
+{"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/18-05.json"},
+{"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/18TV.json"},
 
 {"name": "X-FenWe线路", "url":"https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json"},
 {"name": "X-Sex线路", "url":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt"},
@@ -27,7 +29,11 @@
 {"name": "X-分享者18+", "url":"https://p.ntnas.top/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json"},
 {"name": "18live", "url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json"},
 {"name": "19", "url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json"},
+ 
 
-{"name":"X-nice-h", "url":"https://NiceZoneCoder.github.io/json/xxx/h.json"},
 {"name":"X-nice-adult", "url":"https://NiceZoneCoder.github.io/json/xxx/adult.json"}
+{"name":"X-nice-h", "url":"https://NiceZoneCoder.github.io/json/xxx/h.json"},
+{"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/index18.json"},
+{"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/tvbox18.json"}, 
+{"name":"X-18-04", "url":"https://NiceZoneCoder.github.io/json/xxx/video.json"}
 ]}
