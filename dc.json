@@ -1,26 +1,21 @@
 {
     "storeHouse": [
         {"sourceName": "Nice多仓", "sourceUrl": "https://NiceZoneCoder.github.io/ck.json"},
-        {"sourceName": "🎸欧歌多仓", "sourceUrl": "https://xn--effe-wn6lw489o.v.nxog.top/apia?id=1"},
-        {"sourceName": "🍵金鹰多仓库", "sourceUrl": "https://NiceZoneCoder.github.io/ck_jinying.json"},
+        {"sourceName": "🍵金鹰多仓", "sourceUrl": "https://NiceZoneCoder.github.io/ck_jinying.json"},
         {
-            "sourceName": "①🍱挺好分享多仓库",
+            "sourceName": "🍱挺好分享多仓",
             "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
         },
         {
-            "sourceName": "②🎎蚂蚁影视多仓库",
-            "sourceUrl": "https://pan.miaogongzi.net/f/pNFE/%E8%9A%82%E8%9A%81%E4%BB%93%E5%BA%931.txt"
-        },
-        {
-            "sourceName": "🎇恒星影视多仓库",
+            "sourceName": "🎇恒星影视多仓",
             "sourceUrl": "http://530.my3v.work/hxck.json"
         },
         {
-            "sourceName": "💖心动影视多仓库",
+            "sourceName": "💖心动影视多仓",
             "sourceUrl": "http://530.my3v.work/xdck.json"
         },
         {
-            "sourceName": "💠水大侠影视仓库",
+            "sourceName": "💠水大侠影视多仓",
             "sourceUrl": "https://gitee.com/GK_6_0/json/raw/master/json.txt"
         },
         {
@@ -28,28 +23,24 @@
             "sourceUrl": "https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"
         },
         {
-            "sourceName": "🦠有毒影视科技仓",
-            "sourceUrl": "https://tv.youdu.fan:666/"
-        },
-        {
-            "sourceName": "🐳潇洒个人多仓库",
-            "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
-        },
-        {
-            "sourceName": "🌸荷花影视多仓库",
+            "sourceName": "🌸荷花影视多仓",
             "sourceUrl": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"
         },
         {
-            "sourceName": "🍷蚂蚁影视二仓库",
-            "sourceUrl": "https://pan.miaogongzi.net/f/EdSe/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt"
+            "sourceName": "游魂多仓",
+            "sourceUrl": "https://www.iyouhun.com/tv/dc"
         },
         {
-            "sourceName": "🍷蚂蚁影视三仓库",
-            "sourceUrl": "https://pan.miaogongzi.net/f/NpUo/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"
+            "sourceName": "小盒子多仓",
+            "sourceUrl": "http://xhztv.top/dc/"
         },
         {
-            "sourceName": "🍷蚂蚁影视四仓库",
-            "sourceUrl": "https://pan.miaogongzi.net/f/95Hw/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt"
+            "sourceName": "拾光多仓",
+            "sourceUrl": "http://xmbjm.fh4u.org/dc.txt"
+        },
+        {
+            "sourceName": "七星宝盒",
+            "sourceUrl": "https://qixing.myhkw.com/DC.txt"
         },
         {
             "sourceName": "🔑本地接口",
