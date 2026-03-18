@@ -1,9 +1,7 @@
 {
     "storeHouse": [
         {"sourceName": "Nice多仓", "sourceUrl": "https://NiceZoneCoder.github.io/ck.json"},
-        {"sourceName": "🎸欧歌多仓", "sourceUrl": "https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌"},
-        {"sourceName": "🎸欧歌多仓(备用1)", "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌"},
-        {"sourceName": "🎸欧歌多仓(备用2)", "sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=欧歌"},
+        {"sourceName": "🎸欧歌多仓", "sourceUrl": "https://xn--effe-wn6lw489o.v.nxog.top/apia?id=1"},
         {"sourceName": "🍵金鹰多仓库", "sourceUrl": "https://NiceZoneCoder.github.io/ck_jinying.json"},
         {
             "sourceName": "①🍱挺好分享多仓库",
