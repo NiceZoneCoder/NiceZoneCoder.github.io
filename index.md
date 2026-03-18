@@ -47,6 +47,7 @@
 - [TVbox电视版官方](http://tvbox.clbug.com/)
 - [电视盒子端软件](https://www.lanzouv.com/b03j7buub) 密码：18
 - [TV版电视盒子](https://ufoclz.lanzouy.com/b00zboiwb) 密码：2kzz
+- [电视APP大全](https://github.com/youhunwl/TVAPP)
 
 ### 提供接口的大神们
 
