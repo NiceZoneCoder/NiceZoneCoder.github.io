@@ -79,20 +79,20 @@
 
 + 自用线路
 
-  - 接口: https://shizhongnice.github.io/tvbox.json  
+  - 接口: https://NiceZoneCoder.github.io/tvbox.json  
 
     使用以下方式代理加速
-    - [x] https://p.ntnas.top/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
-    - [x] https://github.moeyy.xyz/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
-    - [x] https://gh-proxy.com/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
-    - [ ] https://ghproxy.com/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
-    - [ ] https://ghproxy.net/https://raw.githubusercontent.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [x] https://p.ntnas.top/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
+    - [x] https://github.moeyy.xyz/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
+    - [x] https://gh-proxy.com/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
+    - [ ] https://ghproxy.com/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
+    - [ ] https://ghproxy.net/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
     
-    - [x] https://raw.kkgithub.com/shizhongNice/shizhongnice.github.io/main/tvbox.json
-    - [x] https://fastly.jsdelivr.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
-    - [x] https://gcore.jsdelivr.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
-    - [ ] https://jsdelivr.b-cdn.net/gh/shizhongNice/shizhongnice.github.io@main/tvbox.json
-    - [ ] https://raw.fgit.cf/shizhongNice/shizhongnice.github.io/main/tvbox.json
+    - [x] https://raw.kkgithub.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
+    - [x] https://fastly.jsdelivr.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
+    - [x] https://gcore.jsdelivr.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
+    - [ ] https://jsdelivr.b-cdn.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
+    - [ ] https://raw.fgit.cf/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
 
 + 大佬线路
 
@@ -100,7 +100,7 @@
 
   - 讴歌: https://xn--dkw0c.e.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
 
-  - 蜂蜜：https://shizhongnice.github.io/tvbox/fongmi.json
+  - 蜂蜜：https://NiceZoneCoder.github.io/tvbox/fongmi.json
 
   - 肥猫接口: http://肥猫.com
 
@@ -122,7 +122,7 @@
 
 + 单仓(ok影视)
 
-  - 自用：https://shizhongnice.github.io/ck.json
+  - 自用：https://NiceZoneCoder.github.io/ck.json
 
   - 欧歌: https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌
   
@@ -139,7 +139,7 @@
 
 + 多仓(影视仓)
 
-  - 自用：https://shizhongnice.github.io/dc.json
+  - 自用：https://NiceZoneCoder.github.io/dc.json
 
   - 讴歌多仓：https://欧歌.e.nxog.top/api.php?id=1
 
@@ -147,11 +147,11 @@
 ### m3u直播资源接口列表
 
 + 自用
-  - [gat_20231205](https://shizhongnice.github.io/m3u/gat_20231205.m3u)
-  - [iptv_ipv6](https://shizhongnice.github.io/m3u/iptv_ipv6.m3u)
-  - [iptv_3_IPV6](https://shizhongnice.github.io/m3u/iptv_3_IPV6.m3u)
-  - [iptv_3_CQYX](https://shizhongnice.github.io/m3u/iptv_3_CQYX.m3u)
-  - [iptv_3_Best](https://shizhongnice.github.io/m3u/iptv_3_Best.m3u)
+  - [gat_20231205](https://NiceZoneCoder.github.io/m3u/gat_20231205.m3u)
+  - [iptv_ipv6](https://NiceZoneCoder.github.io/m3u/iptv_ipv6.m3u)
+  - [iptv_3_IPV6](https://NiceZoneCoder.github.io/m3u/iptv_3_IPV6.m3u)
+  - [iptv_3_CQYX](https://NiceZoneCoder.github.io/m3u/iptv_3_CQYX.m3u)
+  - [iptv_3_Best](https://NiceZoneCoder.github.io/m3u/iptv_3_Best.m3u)
 
 
 ### github代理加速
